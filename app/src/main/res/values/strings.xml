@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">prac2p</string>
+    <string name="hint">Ingresa texto</string>
+    <string name="btn">Servicio</string>
+    <string name="crono">Cronometro</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="dete">Detener</string>
+</resources>
